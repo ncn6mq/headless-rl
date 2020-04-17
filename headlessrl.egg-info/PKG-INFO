@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: headlessrl
+Version: 0.1
+Summary: Headless imitation of rocket league for training reinforcement learning bots (Follows OpenAI Gym Environment API)
+Home-page: http://github.com/ncn6mq/headless-rl
+Author: Nick Newton
+Author-email: ncnewton@gmail.com
+License: NONE
+Description: UNKNOWN
+Platform: UNKNOWN

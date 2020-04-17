@@ -1,0 +1,8 @@
+setup.py
+headlessrl/__init__.py
+headlessrl.egg-info/PKG-INFO
+headlessrl.egg-info/SOURCES.txt
+headlessrl.egg-info/dependency_links.txt
+headlessrl.egg-info/not-zip-safe
+headlessrl.egg-info/requires.txt
+headlessrl.egg-info/top_level.txt
